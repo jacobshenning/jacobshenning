@@ -1,18 +1,43 @@
-<h1>Hi 👋, I'm Jacob</h1>
-<h3>A Web Developer</h3>
+<h1 style="text-align: center;">Hi 👋, I'm Jacob</h1>
+<span style="text-align: center">
+
+[![What I do](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&pause=1000&color=FEFEFD&background=354349&center=true&vCenter=true&width=435&lines=Full-stack+web+developer+%E2%80%8D%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;5%2B+years+of+coding+experience+%F0%9F%92%AA;Always+learning+new+things+%F0%9F%9A%80)](https://jacobhenning.com)
+
+<a class="btn" href="https://jacobhenning.com">Checkout my awesome website 😎</a>
+
+<a href="https://dev.to/jacobhenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jacobhenning" height="30" width="40" /></a>
+<a href="https://twitter.com/jacobhe50394604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacobhe50394604" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jacobhenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobhenning" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9086856/jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9086856/jacob" height="30" width="40" /></a>
+<a href="https://medium.com/@jacob_henning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jacob_henning" height="30" width="40" /></a>
+<a href="https://jacobhenning.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jacobhenning.com/feed/" height="30" width="40" /></a>
+
+</span>
+
+<style>
+
+    .btn {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-size: 16px;
+        border: 2px solid rgba(255,170,48,.75);
+        border-radius: 3px;
+        color: #fefefd;
+        font-family: RobotoFlex,sans-serif;
+        font-weight: 300;
+        padding: 12px 30px;
+    }
+
+    .btn:hover {
+        border: 2px solid #ffaa30;
+        box-shadow: 0 0 5px rgba(255,170,48,.75);
+        text-decoration: none
+    }
+</style>
 
 
+A few things about me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&pause=1000&color=FEFEFD&background=354349&center=true&vCenter=true&width=435&lines=I+work+with+Laravel;I+work+with+vue)](https://git.io/typing-svg)
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobshenning&label=Profile%20views&color=0e75b6&style=flat" alt="jacobshenning" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jacobhe50394604" target="blank"><img src="https://img.shields.io/twitter/follow/jacobhe50394604?logo=twitter&style=for-the-badge" alt="jacobhe50394604" /></a> </p>
 
 - 🔭 I’m currently working on [Projects](#)
 
