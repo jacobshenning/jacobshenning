@@ -2,6 +2,9 @@
 <h3>A Web Developer</h3>
 
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&pause=1000&color=FEFEFD&background=354349&center=true&vCenter=true&width=435&lines=I+work+with+Laravel;I+work+with+vue)](https://git.io/typing-svg)
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
