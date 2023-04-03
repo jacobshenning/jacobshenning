@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A Web Developer</h3>
+<h1>Hi 👋, I'm Jacob</h1>
+<h3>A Web Developer</h3>
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobshenning&label=Profile%20views&color=0e75b6&style=flat" alt="jacobshenning" /> </p>
 
