@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A subtitle</h3>
+<h3 align="center">A Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobshenning&label=Profile%20views&color=0e75b6&style=flat" alt="jacobshenning" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jacobshenning" target="blank"><img src="https://img.shields.io/twitter/follow/jacobshenning?logo=twitter&style=for-the-badge" alt="jacobshenning" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jacobhe50394604" target="blank"><img src="https://img.shields.io/twitter/follow/jacobhe50394604?logo=twitter&style=for-the-badge" alt="jacobhe50394604" /></a> </p>
 
 - 🔭 I’m currently working on [Projects](#)
 
@@ -32,10 +32,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jacobhenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jacobhenning" height="30" width="40" /></a>
-<a href="https://twitter.com/jacobshenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacobshenning" height="30" width="40" /></a>
+<a href="https://twitter.com/jacobhe50394604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacobhe50394604" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jacobhenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobhenning" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jacobhenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jacobhenning" height="30" width="40" /></a>
-<a href="https://medium.com/@jacobhenning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jacobhenning" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9086856/jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9086856/jacob" height="30" width="40" /></a>
+<a href="https://medium.com/@jacob_henning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jacob_henning" height="30" width="40" /></a>
 <a href="/https://jacobhenning.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jacobhenning.com/feed/" height="30" width="40" /></a>
 </p>
 
