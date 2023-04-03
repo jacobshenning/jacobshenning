@@ -33,6 +33,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NoSQL Databases and My Adventure with Redis](https://jacobhenning.com/nosql-databases-and-my-adventure-with-redis/)
+- [Alpine JS, Why its awesome, and how to apply it awesomeness.](https://jacobhenning.com/alpine-js-why-its-awesome-and-how-to-apply-it-awesomeness/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
