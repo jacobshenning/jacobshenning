@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jacob@jacobhenning.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://github.com/jacobshenning/jacobshenning/blob/main/resume.pdf)
 
 - ⚡ Fun fact **I'm funny**
 
