@@ -27,6 +27,7 @@ I'm a PHP legend and a javascript master 👨‍💻. I'm down to code anything 
 I'm not a writer ✍️, I'm a thinker 🧠, and here are my thoughts.
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog on WordPress? How to Post to Dev.to Too](https://jacobhenning.com/blog-on-wordpress-how-to-post-to-dev-to-too/)
 - [NoSQL Databases and My Adventure with Redis](https://jacobhenning.com/nosql-databases-and-my-adventure-with-redis/)
 - [Alpine JS, Why its awesome, and how to apply it awesomeness.](https://jacobhenning.com/alpine-js-why-its-awesome-and-how-to-apply-it-awesomeness/)
 <!-- BLOG-POST-LIST:END -->
